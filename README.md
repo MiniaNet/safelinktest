@@ -1,0 +1,2 @@
+# safelinktest
+file.js
